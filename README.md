@@ -1,3 +1,3 @@
 # ICS460
 
-SEPT 27 - Nicolas: The receiver and sender programs work correctly, except for writing the image. If anyone knows how to correctly implement this, please do
+SEPT 29 - Nicolas: The code is pretty much done. The program now sends the image and writes it in the desktop. We just need to run from CMD
